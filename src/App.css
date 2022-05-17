@@ -8,3 +8,10 @@
 .green{
   color:green;
 }
+
+svg{
+  position:fixed;
+  top:95vh;
+  left:98vh;
+
+}
